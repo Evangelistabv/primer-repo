@@ -1,4 +1,4 @@
 # primer-repo
 Primer repo de github
-## descripci+ón 
+## descripción 
 es un repo creado para curso
